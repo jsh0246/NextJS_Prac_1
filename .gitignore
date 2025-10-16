@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Next.JS
+# Node modules
+nextjs-p1/node_modules
+
+# Next.js build output
+nextjs-p1/.next/
+nextjs-p1/out/
+
+# Vercel deployment
+nextjs-p1/.vercel
+
+# Logs
+nextjs-p1/*.log
